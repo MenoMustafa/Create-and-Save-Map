@@ -27,8 +27,8 @@ source ~/.bashrc </code></pre></div>
 <p> Type, the following command:</p>
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="  Number of colours/ shades = 2^bpp where bpp represents bits per pixel.
 "><pre><code>roslaunch turtlebot3_gazebo turtlebot3_world.launch</code></pre></div>
-
+<img src= "Images/Gazebo.png" width="28" height="28">
 <p> Run the SLAM RViz.</p>
 <div class="snippet-clipboard-content position-relative" data-snippet-clipboard-copy-content="  Number of colours/ shades = 2^bpp where bpp represents bits per pixel.
 "><pre><code>roslaunch turtlebot3_slam turtlebot3_slam.launch slam_methods:=karto</code></pre></div>
-
+<img src= "Images/map_Rviz.png" width="28" height="28">
